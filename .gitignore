@@ -1,0 +1,9 @@
+.venv
+__pycache__
+
+# path to u2net
+*.pth
+model.py
+
+# test images
+images
